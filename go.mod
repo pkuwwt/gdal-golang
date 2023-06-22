@@ -1,4 +1,4 @@
-module github.com/pkuwwt/gdal
+module github.com/pkuwwt/gdal-golang
 
 go 1.15
 
